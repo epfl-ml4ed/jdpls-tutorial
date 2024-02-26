@@ -2,7 +2,9 @@
 Student Modeling (BKT, DKT, AFM, PFA) lecture for the JDPLS program on March 6th, 2024.  
 Instructors: Prof. Tanja Käser, Vinitra Swamy from the ML4ED Lab  
 
-To make this demonstration interactive, we'll run code on EPFL's interactive Jupyter Notebook cluster, Noto! Noto enables everyone to run python code in their browser, without needing an environment set up on your own machine. Here are the steps to get started with Noto.  
+To prepare for the lecture, please read the [student modeling research papers](/tutorial-preparation/papers-to-read/) and refresh your python and Jupyter knowledge with the [tutorial notebooks](/tutorial-preparation).
+
+To make the lecture demonstration interactive, we'll run code on EPFL's interactive Jupyter Notebook cluster, [Noto](https://noto.epfl.ch)! Noto enables everyone to run python code in their browser, without needing an environment set up on your own machine. Here are the steps to get started with Noto.  
 
 ### Setup
 If you're stuck somewhere, feel free to email Vinitra Swamy (vinitra.swamy@epfl.ch) and she will help you! Through the following steps, you will log in to Noto, copy the right files you need for the tutorial, and get started running code. 
