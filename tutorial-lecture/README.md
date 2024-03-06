@@ -1,6 +1,8 @@
 # tutorial-lecture
 Student Modeling (Bayesian Knowledge Tracing) lecture for the JDPLS program. 
 
+If you're interested in exploring more, you could try our course materials in our Machine Learning for Behavioral Data course ([mlbd-2023](https://github.com/epfl-ml4ed/mlbd-2023)) and look at the lecture videos on [SwitchTube](https://mediaspace.epfl.ch/channel/CS-421+Machine+learning+for+behavioral+data/30584).
+
 ### Setup
 On the day of the lecture, you can complete the following steps to have the relevant material in your Noto environment.
 
